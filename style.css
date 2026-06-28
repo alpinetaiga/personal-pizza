@@ -1,0 +1,47 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+
+}
+
+
+
+.leaves{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+.sun{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.trunk{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    height: 400px;
+    width: 200px;
+    background-color: rgb(128, 85, 43);
+}
+
+h3{
+   
+    text-align: center;
+    color: rgb(65, 20, 1);
+    
+}
+
+p{
+   
+    text-align: center;
+    color: rgb(65, 20, 1);
+    
+}
